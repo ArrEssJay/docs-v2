@@ -207,7 +207,7 @@ A multi-line literal string allows us to encode the pattern:
 ### Tips for creating patterns
 
 Writing complex patterns can be difficult, here is some advice for writing a
-new pattern or testing a pattern developed [online](https://grokdebug.herokuapp.com).
+new pattern or testing a pattern developed [online](https://grokdebugger.com/).
 
 Create a file output that writes to stdout, and disable other outputs while
 testing.  This will allow you to see the captured metrics.  Keep in mind that
